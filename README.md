@@ -12,7 +12,7 @@ The code that applies to all pages are
 [Home]
   -Index.html : Explain Kang's web	
   
-[Profile]  
+[Profile]
   -resume.html : Explain my details.
 
 [Reference]	
