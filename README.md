@@ -1,13 +1,13 @@
 # Kang-WebSite
+ULR is ehdrn3020.dothome.co.kr. You can see desigh and how it works.
 
 By programming the website, I promote myself and Use as a E-diary by adding the functions I need. Using the bootstrap, I designed a reactive web site that can be viewed on any device. 
-ULR is ehdrn3020.dothome.co.kr. You can see desigh and how it works.
 
 Structure 
 It consists of four main pages. [Home], [Profile], [Reference], [Work]
 The code that applies to all pages are	
   -board_con.php : Function for accessing database. 
-	-message.php : Use menu bar to store someone contacts on any page and save it to the database.
+  -message.php : Use menu bar to store someone contacts on any page and save it to the database.
 
 [Home]
   -Index.html : Explain Kang's web	
